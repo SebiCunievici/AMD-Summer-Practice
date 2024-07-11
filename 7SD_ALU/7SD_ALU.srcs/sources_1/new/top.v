@@ -202,7 +202,7 @@ always @(A, B, OP)
                     end
                     
         3'b001 : if(A < B) begin
-                    {OF, UF, ERR, ZERO} = 4'b0110;
+                    {OF, UF, ERR, ZERO} = 4'b0100;
                     O = 0;
                 end else if(A == B) begin
                     {OF, UF, ERR, ZERO} = 4'b0001;
