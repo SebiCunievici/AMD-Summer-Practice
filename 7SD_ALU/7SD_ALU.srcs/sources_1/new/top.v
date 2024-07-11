@@ -194,7 +194,7 @@ always @(A, B, OP)
     case(OP)
     
         3'b000 : if(A[N-1] == 1'b1 && B[N-1] == 1'b1) begin
-                        {OF, UF, ERR, ZERO} = 4'b1010;
+                        {OF, UF, ERR, ZERO} = 4'b1000;
                         O = 0;
                     end else begin
                         {OF, UF, ERR, ZERO} = 4'b0000;
