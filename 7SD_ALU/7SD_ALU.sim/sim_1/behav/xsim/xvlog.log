@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/training/7SD/7SD.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module FREQ_DIV
+INFO: [VRFC 10-311] analyzing module MUX4_1
+INFO: [VRFC 10-311] analyzing module DIG_DEC
+INFO: [VRFC 10-311] analyzing module DEC2_4
+INFO: [VRFC 10-311] analyzing module CNT
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/training/7SD/7SD.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
