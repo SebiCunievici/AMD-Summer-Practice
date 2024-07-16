@@ -2,9 +2,9 @@ module DM(clk, addr, WD, MEMWRITE, RD);
 
     input clk, MEMWRITE;
     input [31:0] addr, WD;
-    output reg [31:0] RD;
+    output [31:0] RD;
     
-    reg [7:0] MEM [31:0];
+    reg [31:0] MEM [31:0];
     
     reg [5:0] i;
     initial begin
@@ -20,8 +20,7 @@ module DM(clk, addr, WD, MEMWRITE, RD);
             MEM[addr+3] = WD[31:24];
         end
                 
-     always @(negedge clk)
-        RD = {MEM[addr+3], MEM[addr+2], MEM[addr+1], MEM[addr]};
+    assign RD = {MEM[addr+3], MEM[addr+2], MEM[addr+1], MEM[addr]};
 
 
 endmodule

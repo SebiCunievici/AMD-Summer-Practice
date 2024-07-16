@@ -4,3 +4,6 @@
 
 000000_00001_00001_00001_00000_100000   R_TYPE aduna registrul $1 cu registrul $1 si pune valoarea in registrul $1
 
+
+101011_00001_00000_0000000000000010    I-TYPE  incarca valoarea din registrul $1 la adresa 2(0) 
+

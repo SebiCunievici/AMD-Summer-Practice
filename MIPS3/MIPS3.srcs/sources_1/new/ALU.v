@@ -31,6 +31,7 @@ always @(A, B, OP)
             out = ~(A | B);
             ZERO = (out) ? 0 : 1;
         end
+        
     endcase
 
 endmodule

@@ -6,21 +6,4 @@ Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
 Completed static elaboration
-Starting simulation data flow analysis
-WARNING: [XSIM 43-4100] "C:/Users/training/MIPS3/MIPS3.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
-WARNING: [XSIM 43-4100] "C:/Users/training/MIPS3/MIPS3.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
-Completed simulation data flow analysis
-Time Resolution for simulation is 1ps
-Compiling module xil_defaultlib.PC
-Compiling module xil_defaultlib.SUM4
-Compiling module xil_defaultlib.IM
-Compiling module xil_defaultlib.MUX2_1(N=5)
-Compiling module xil_defaultlib.REGISTERS_BANK
-Compiling module xil_defaultlib.EXT_SIGN
-Compiling module xil_defaultlib.MUX2_1
-Compiling module xil_defaultlib.ALU
-Compiling module xil_defaultlib.DM
-Compiling module xil_defaultlib.MAIN_CONTROL
-Compiling module xil_defaultlib.tb
-Compiling module xil_defaultlib.glbl
-Built simulation snapshot tb_behav
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel

@@ -35,7 +35,7 @@ module tb;
     initial begin
         #0 PC_RES = 1;
         
-        #7 PC_RES = 0;
+        #3 PC_RES = 0;
     
         #100 $finish;
     end
