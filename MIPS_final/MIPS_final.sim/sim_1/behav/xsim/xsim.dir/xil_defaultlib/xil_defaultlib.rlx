@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+A:/Vivado Projects/MIPS_final/MIPS_final.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sim_1/new/tb.v,1721617975,verilog,,,,tb,,,,,,,,
+A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/ALU.v,1721203508,verilog,,A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/DATA_MEMORY.v,,ALU,,,,,,,,
+A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/DATA_MEMORY.v,1721620797,verilog,,A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/Instruction_Memory.v,,DM,,,,,,,,
+A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/Instruction_Memory.v,1721580614,verilog,,A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/MAIN_CONTROL.v,,IM,,,,,,,,
+A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/MAIN_CONTROL.v,1721620752,verilog,,A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/PC.v,,MAIN_CONTROL,,,,,,,,
+A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/PC.v,1721203508,verilog,,A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/REGISTERS_BANK.v,,PC,,,,,,,,
+A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/REGISTERS_BANK.v,1721203508,verilog,,A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/comb.v,,REGISTERS_BANK,,,,,,,,
+A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sources_1/new/comb.v,1721203508,verilog,,A:/Vivado Projects/MIPS_final/MIPS_final.srcs/sim_1/new/tb.v,,EXT_SIGN;MUX2_1;SHIFT_REG;SUM,,,,,,,,
